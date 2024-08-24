@@ -1,1 +1,2 @@
-# KDE_plasmoid_notifications
+# KDE plasmoidnotifications
+test up : plasmoidviewer --applet mert-plasmoid
