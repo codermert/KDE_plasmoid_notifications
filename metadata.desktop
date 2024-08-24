@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Mert's Plasmoid
+Comment=Displays a simple message
+Icon=plasmoid
+Type=Service
+ServiceTypes=Plasma/Applet
+
+X-KDE-PluginInfo-Author=Mert
+X-KDE-PluginInfo-Email=mert@example.com
+X-KDE-PluginInfo-Name=mert-plasmoid
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://example.com
+X-KDE-PluginInfo-License=GPL-2.0+

@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Mert's Plasmoid",
+        "Description": "Displays a simple message",
+        "Icon": "plasmoid",
+        "Author": "Mert",
+        "Email": "mert@example.com",
+        "Version": "1.0",
+        "Website": "https://example.com",
+        "License": "GPL-2.0+"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
